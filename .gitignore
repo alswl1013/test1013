@@ -1,0 +1,11 @@
+
+# Logs
+Logs
+*.log
+npm-debug.log*
+
+#Dependency directories
+
+#관리대상에서 제외할 폴더 기술
+node_modules/
+한줄추가/
